@@ -6,7 +6,7 @@ This app allows users to **add, mark as complete, and delete tasks** with a clea
 ---
 ## 🔗 Live Demo  
 
-👉 (https://to-do-list2-6mm43dajf-shehnaz-rs-projects.vercel.app/)  
+👉 (https://to-do-list2-three.vercel.app/)  
 
 ---
 <img width="925" height="886" alt="image" src="https://github.com/user-attachments/assets/a3453f1f-2f83-408e-99a1-e81450245869" />
