@@ -1,4 +1,4 @@
-# ✅ To-Do List App
+# ✅ To-Do List App - CODTECH-INTERNSHIP-Task-1
 
 A simple and elegant **To-Do List Web Application** built with **HTML, CSS, and JavaScript**.  
 This app allows users to **add, mark as complete, and delete tasks** with a clean UI design.
